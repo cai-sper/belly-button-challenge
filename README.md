@@ -14,7 +14,7 @@ This project showcases interactive web visualizations using D3, Plotly, and Java
 
 To explore the Belly Button Biodiversity dataset through interactive web visualizations, follow these steps:
 
-1. Open the web page containing the visualizations.
+1. Open the web page containing the visualizations at [https://cai-sper.github.io/belly-button-challenge/](https://cai-sper.github.io/belly-button-challenge/).
 2. Use the dropdown menu to select a sample by its ID.
 
 ## Visualizations
